@@ -79,7 +79,8 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![alt text](image.png)
+![Screenshot 2024-03-18 191811](https://github.com/lovelypinkpavi/simplewebserver/assets/150664013/4b47f10e-7641-4b69-8f47-10ac1af78020)
+
 ![Screenshot 2024-03-14 083455](https://github.com/lovelypinkpavi/simplewebserver/assets/150664013/af252177-6585-4148-b02d-42b24bf98536)
 
 ## RESULT:
