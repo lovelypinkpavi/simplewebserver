@@ -82,5 +82,6 @@ httpd.serve_forever()
 
 ![(<Screenshot 2024-03-18 191924.png>)]
 ![alt text](<Screenshot 2024-03-18 191811.png>)
+
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
