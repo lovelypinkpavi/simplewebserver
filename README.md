@@ -79,15 +79,7 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-<<<<<<< HEAD
-![alt text](<Screenshot 2024-03-18 191811-1.png>)
-![alt text](<Screenshot 2024-03-12 113038.png>)
-
-=======
-![Screenshot 2024-03-18 191811](https://github.com/lovelypinkpavi/simplewebserver/assets/150664013/4b47f10e-7641-4b69-8f47-10ac1af78020)
-
-![Screenshot 2024-03-14 083455](https://github.com/lovelypinkpavi/simplewebserver/assets/150664013/af252177-6585-4148-b02d-42b24bf98536)
->>>>>>> c69b29537efe2a91466b6bf533c6de46f1cd0786
-
+![alt text](<Screenshot 2024-03-18 191811-2.png>)
+![alt text](<Screenshot 2024-03-12 113038-1.png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
